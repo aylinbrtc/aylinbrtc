@@ -8,7 +8,7 @@ A 3rd-year **Computer Engineering Student** discovering my path in the tech worl
 
 ### Connect with Me:
 [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:aylinbarutcu6@gmail.com) 
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/aylin-barut%C3%A7u)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/aylin-barut%C3%A7u-129113322/)
 
 ### Programming Languages and Tools:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
