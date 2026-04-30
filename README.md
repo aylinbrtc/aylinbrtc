@@ -1,15 +1,16 @@
-# Hi, I'm Aylin 👋
+# Aylin Barutçu
 
-Final-year Computer Engineering student at TOBB ETÜ, graduating 2026.  
-Interested in machine learning, data science, and AI engineering.
+Computer Engineering graduate from TOBB ETÜ.  
+Focused on machine learning, NLP, and data science.
 
 ## Tech Stack
 
-**Languages:** Python · SQL · Java · C++ · C  
-**ML & Data:** PyTorch · Scikit-learn · LightGBM · LangChain · OpenAI API · Pandas · NumPy  
-**Tools:** Git · Linux · Jupyter · Postman
+**Languages:** Python · SQL · TypeScript · Java · C++  
+**ML & NLP:** PyTorch · Scikit-learn · LightGBM · HuggingFace · LangChain · OpenAI API  
+**Data:** Pandas · NumPy · Jupyter  
+**Tools:** Git · Linux · Docker · Postman  
 
 ## Connect
 
-[![LinkedIn](https://img.icons8.com/fluent/32/000000/linkedin.png)](https://www.linkedin.com/in/aylin-barutçu)
-[![Email](https://img.icons8.com/fluent/32/000000/email.png)](mailto:barutcuaylin@icloud.com)
+[![LinkedIn](https://img.icons8.com/fluent/28/linkedin.png)](https://www.linkedin.com/in/aylin-barutçu)
+[![Email](https://img.icons8.com/fluent/28/email.png)](mailto:barutcuaylin@icloud.com)
